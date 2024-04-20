@@ -1,0 +1,10 @@
+Package: yates.algo.doe.factorial.exp
+Type: Package
+Title: Factorial Effects and their Sum Squares by Yate's Algorithm
+Version: 0.1.0
+Author: Ananda Biswas
+Maintainer: Ananda Biswas <amianandabiswas@gmail.com>
+Description: Takes treatment combinations, treatment combination totals, power of 2 and number of replicates as inputs and generates a dataframe having individual treatment effects calculated by Yate's Algorithm and treatment sum of squares.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
